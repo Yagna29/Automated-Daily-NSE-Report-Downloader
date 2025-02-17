@@ -1,0 +1,421 @@
+2024-11-26 17:32:12,356 - INFO - Download report requested.
+2024-11-26 17:32:12,369 - WARNING - Today's report is still downloading.
+2024-11-26 17:33:26,414 - INFO - Downloaded and Created Zip: merged_reports_2024-11-26.zip Successfully!
+2024-11-26 17:34:07,164 - INFO - Download report requested.
+2024-11-26 17:34:07,179 - INFO - Downloading...
+2024-11-26 17:34:09,179 - INFO - Reports downloaded successfully!
+2024-11-27 16:33:55,211 - INFO - Download report requested.
+2024-11-27 16:33:55,231 - WARNING - Report for today is not available yet.
+2024-11-27 16:34:48,329 - INFO - Download report requested.
+2024-11-27 16:34:48,333 - WARNING - Report for today is not available yet.
+2024-11-27 16:36:32,587 - INFO - Downloaded and Created Zip: merged_reports_2024-11-27.zip Successfully!
+2024-11-27 16:38:02,402 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF735C56CB5+28821]
+	(No symbol) [0x00007FF735BC3840]
+	(No symbol) [0x00007FF735A6578A]
+	(No symbol) [0x00007FF735A3F4F5]
+	(No symbol) [0x00007FF735AE6247]
+	(No symbol) [0x00007FF735AFECE2]
+	(No symbol) [0x00007FF735ADF0A3]
+	(No symbol) [0x00007FF735AAA778]
+	(No symbol) [0x00007FF735AAB8E1]
+	GetHandleVerifier [0x00007FF735F8FCAD+3408013]
+	GetHandleVerifier [0x00007FF735FA741F+3504127]
+	GetHandleVerifier [0x00007FF735F9B5FD+3455453]
+	GetHandleVerifier [0x00007FF735D1BDBB+835995]
+	(No symbol) [0x00007FF735BCEB5F]
+	(No symbol) [0x00007FF735BCA814]
+	(No symbol) [0x00007FF735BCA9AD]
+	(No symbol) [0x00007FF735BBA199]
+	BaseThreadInitThunk [0x00007FF841DA259D+29]
+	RtlUserThreadStart [0x00007FF843CCAF38+40]
+
+2024-11-27 16:38:47,096 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF735C56CB5+28821]
+	(No symbol) [0x00007FF735BC3840]
+	(No symbol) [0x00007FF735A6578A]
+	(No symbol) [0x00007FF735A3F4F5]
+	(No symbol) [0x00007FF735AE6247]
+	(No symbol) [0x00007FF735AFECE2]
+	(No symbol) [0x00007FF735ADF0A3]
+	(No symbol) [0x00007FF735AAA778]
+	(No symbol) [0x00007FF735AAB8E1]
+	GetHandleVerifier [0x00007FF735F8FCAD+3408013]
+	GetHandleVerifier [0x00007FF735FA741F+3504127]
+	GetHandleVerifier [0x00007FF735F9B5FD+3455453]
+	GetHandleVerifier [0x00007FF735D1BDBB+835995]
+	(No symbol) [0x00007FF735BCEB5F]
+	(No symbol) [0x00007FF735BCA814]
+	(No symbol) [0x00007FF735BCA9AD]
+	(No symbol) [0x00007FF735BBA199]
+	BaseThreadInitThunk [0x00007FF841DA259D+29]
+	RtlUserThreadStart [0x00007FF843CCAF38+40]
+
+2024-11-27 17:20:19,096 - ERROR - Failed to download: C_VAR1_27112024_1.DAT
+2024-11-27 17:22:04,810 - INFO - Downloaded and Created Zip: merged_reports_2024-11-27.zip Successfully!
+2024-11-27 17:22:18,879 - INFO - Download report requested.
+2024-11-27 17:22:18,883 - INFO - Downloading...
+2024-11-27 17:22:20,884 - INFO - Reports downloaded successfully!
+2024-11-29 16:47:19,426 - INFO - Download report requested.
+2024-11-29 16:47:19,438 - WARNING - Report for today is not available yet.
+2024-11-29 16:48:30,988 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF740386CB5+28821]
+	(No symbol) [0x00007FF7402F3840]
+	(No symbol) [0x00007FF74019578A]
+	(No symbol) [0x00007FF74016F4F5]
+	(No symbol) [0x00007FF740216247]
+	(No symbol) [0x00007FF74022ECE2]
+	(No symbol) [0x00007FF74020F0A3]
+	(No symbol) [0x00007FF7401DA778]
+	(No symbol) [0x00007FF7401DB8E1]
+	GetHandleVerifier [0x00007FF7406BFCAD+3408013]
+	GetHandleVerifier [0x00007FF7406D741F+3504127]
+	GetHandleVerifier [0x00007FF7406CB5FD+3455453]
+	GetHandleVerifier [0x00007FF74044BDBB+835995]
+	(No symbol) [0x00007FF7402FEB5F]
+	(No symbol) [0x00007FF7402FA814]
+	(No symbol) [0x00007FF7402FA9AD]
+	(No symbol) [0x00007FF7402EA199]
+	BaseThreadInitThunk [0x00007FFD44BD259D+29]
+	RtlUserThreadStart [0x00007FFD46CAAF38+40]
+
+2024-12-02 23:03:53,418 - INFO - Download report requested.
+2024-12-02 23:03:53,476 - WARNING - Today's report is still downloading.
+2024-12-02 23:05:41,073 - ERROR - An error occurred: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=131.0.6778.86)
+Stacktrace:
+	GetHandleVerifier [0x00007FF75D696CB5+28821]
+	(No symbol) [0x00007FF75D603840]
+	(No symbol) [0x00007FF75D4A578A]
+	(No symbol) [0x00007FF75D49230C]
+	(No symbol) [0x00007FF75D4921D0]
+	(No symbol) [0x00007FF75D4A8131]
+	(No symbol) [0x00007FF75D53ED12]
+	(No symbol) [0x00007FF75D51F0A3]
+	(No symbol) [0x00007FF75D4EA778]
+	(No symbol) [0x00007FF75D4EB8E1]
+	GetHandleVerifier [0x00007FF75D9CFCAD+3408013]
+	GetHandleVerifier [0x00007FF75D9E741F+3504127]
+	GetHandleVerifier [0x00007FF75D9DB5FD+3455453]
+	GetHandleVerifier [0x00007FF75D75BDBB+835995]
+	(No symbol) [0x00007FF75D60EB5F]
+	(No symbol) [0x00007FF75D60A814]
+	(No symbol) [0x00007FF75D60A9AD]
+	(No symbol) [0x00007FF75D5FA199]
+	BaseThreadInitThunk [0x00007FFD44BD259D+29]
+	RtlUserThreadStart [0x00007FFD46CAAF38+40]
+
+2024-12-12 18:44:09,757 - ERROR - An error occurred: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=131.0.6778.139)
+Stacktrace:
+	GetHandleVerifier [0x00007FF7E4916CB5+28821]
+	(No symbol) [0x00007FF7E4883840]
+	(No symbol) [0x00007FF7E472578A]
+	(No symbol) [0x00007FF7E46FF4F5]
+	(No symbol) [0x00007FF7E47A6247]
+	(No symbol) [0x00007FF7E47BECE2]
+	(No symbol) [0x00007FF7E479F0A3]
+	(No symbol) [0x00007FF7E476A778]
+	(No symbol) [0x00007FF7E476B8E1]
+	GetHandleVerifier [0x00007FF7E4C4FCAD+3408013]
+	GetHandleVerifier [0x00007FF7E4C6741F+3504127]
+	GetHandleVerifier [0x00007FF7E4C5B5FD+3455453]
+	GetHandleVerifier [0x00007FF7E49DBDBB+835995]
+	(No symbol) [0x00007FF7E488EB5F]
+	(No symbol) [0x00007FF7E488A814]
+	(No symbol) [0x00007FF7E488A9AD]
+	(No symbol) [0x00007FF7E487A199]
+	BaseThreadInitThunk [0x00007FFD44BD259D+29]
+	RtlUserThreadStart [0x00007FFD46CAAF38+40]
+
+2024-12-12 18:48:18,401 - INFO - Download report requested.
+2024-12-12 18:48:18,422 - WARNING - Today's report is still downloading.
+2024-12-12 18:48:34,061 - INFO - Download report requested.
+2024-12-12 18:48:34,061 - WARNING - Today's report is still downloading.
+2024-12-12 18:50:23,886 - INFO - Download report requested.
+2024-12-12 18:50:23,891 - WARNING - Today's report is still downloading.
+2024-12-12 18:51:23,211 - INFO - Downloaded and Created Zip: merged_reports_2024-12-12.zip Successfully!
+2024-12-12 18:51:36,785 - INFO - Download report requested.
+2024-12-12 18:51:36,801 - INFO - Downloading...
+2024-12-12 18:51:38,804 - INFO - Reports downloaded successfully!
+2024-12-12 19:23:44,404 - INFO - Downloaded and Created Zip: merged_reports_2024-12-12.zip Successfully!
+2024-12-12 19:23:45,125 - INFO - Download report requested.
+2024-12-12 19:23:45,138 - INFO - Downloading...
+2024-12-12 19:23:47,141 - INFO - Reports downloaded successfully!
+2024-12-13 13:23:04,408 - INFO - Download report requested.
+2024-12-13 13:23:04,408 - WARNING - Today's report is still downloading.
+2024-12-13 13:23:38,083 - INFO - Downloaded and Created Zip: merged_reports_2024-12-13.zip Successfully!
+2024-12-13 15:05:14,301 - ERROR - Failed to download: C_VAR1_13122024_2.DAT
+2024-12-13 15:05:18,480 - ERROR - Failed to download: C_VAR1_13122024_3.DAT
+2024-12-13 15:05:32,509 - ERROR - Failed to download: C_VAR1_13122024_4.DAT
+2024-12-13 15:06:30,869 - INFO - Downloaded and Created Zip: merged_reports_2024-12-13.zip Successfully!
+2024-12-13 15:06:43,412 - INFO - Download report requested.
+2024-12-13 15:06:43,422 - INFO - Downloading...
+2024-12-13 15:06:45,424 - INFO - Reports downloaded successfully!
+2024-12-13 16:06:41,512 - INFO - Downloaded and Created Zip: merged_reports_2024-12-13.zip Successfully!
+2024-12-13 16:06:58,200 - INFO - Download report requested.
+2024-12-13 16:06:58,214 - INFO - Downloading...
+2024-12-13 16:07:00,217 - INFO - Reports downloaded successfully!
+2024-12-13 16:18:11,853 - INFO - Downloaded and Created Zip: merged_reports_2024-12-13.zip Successfully!
+2024-12-13 17:32:39,211 - INFO - Downloaded and Created Zip: merged_reports_2024-12-13.zip Successfully!
+2024-12-13 17:33:12,816 - INFO - Download report requested.
+2024-12-13 17:33:12,820 - INFO - Downloading...
+2024-12-13 17:33:14,820 - INFO - Reports downloaded successfully!
+2024-12-14 21:21:35,648 - INFO - Downloaded and Created Zip: merged_reports_2024-12-14.zip Successfully!
+2024-12-14 21:21:52,155 - INFO - Download report requested.
+2024-12-14 21:21:52,171 - INFO - Downloading...
+2024-12-14 21:21:54,172 - INFO - Reports downloaded successfully!
+2024-12-27 13:49:08,560 - INFO - Download report requested.
+2024-12-27 13:49:08,575 - WARNING - Today's report is still downloading.
+2024-12-27 13:49:25,992 - INFO - Downloaded and Created Zip: merged_reports_2024-12-27.zip Successfully!
+2024-12-27 13:49:40,857 - INFO - Download report requested.
+2024-12-27 13:49:40,873 - INFO - Downloading...
+2024-12-27 13:49:42,883 - INFO - Reports downloaded successfully!
+2025-02-17 18:47:55,827 - INFO - Download report requested.
+2025-02-17 18:48:10,350 - ERROR - Failed to initialize the Chrome WebDriver: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:48:10,351 - ERROR - Attempt 1 failed with error: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:48:24,959 - ERROR - Failed to initialize the Chrome WebDriver: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:48:24,960 - ERROR - Attempt 2 failed with error: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:48:39,566 - ERROR - Failed to initialize the Chrome WebDriver: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:48:39,566 - ERROR - Attempt 3 failed with error: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:48:39,567 - WARNING - Max retries reached. Failed to complete the operation.
+2025-02-17 18:49:06,737 - INFO - Download report requested.
+2025-02-17 18:50:20,709 - ERROR - Failed to initialize the Chrome WebDriver: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 18:50:20,710 - ERROR - Attempt 1 failed with error: Message: session not created: This version of ChromeDriver only supports Chrome version 131
+Current browser version is 133.0.6943.98 with binary path C:\Program Files\Google\Chrome\Application\chrome.exe
+Stacktrace:
+	GetHandleVerifier [0x00007FF61ACA6CB5+28821]
+	(No symbol) [0x00007FF61AC13840]
+	(No symbol) [0x00007FF61AAB578A]
+	(No symbol) [0x00007FF61AAF74C2]
+	(No symbol) [0x00007FF61AAF652B]
+	(No symbol) [0x00007FF61AAF0469]
+	(No symbol) [0x00007FF61AAEBAC9]
+	(No symbol) [0x00007FF61AB3A4FA]
+	(No symbol) [0x00007FF61AB39B30]
+	(No symbol) [0x00007FF61AB2F0A3]
+	(No symbol) [0x00007FF61AAFA778]
+	(No symbol) [0x00007FF61AAFB8E1]
+	GetHandleVerifier [0x00007FF61AFDFCAD+3408013]
+	GetHandleVerifier [0x00007FF61AFF741F+3504127]
+	GetHandleVerifier [0x00007FF61AFEB5FD+3455453]
+	GetHandleVerifier [0x00007FF61AD6BDBB+835995]
+	(No symbol) [0x00007FF61AC1EB5F]
+	(No symbol) [0x00007FF61AC1A814]
+	(No symbol) [0x00007FF61AC1A9AD]
+	(No symbol) [0x00007FF61AC0A199]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
+2025-02-17 19:02:56,527 - ERROR - Failed to download: PR170225.zip
+2025-02-17 19:04:09,191 - ERROR - An error occurred: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=133.0.6943.98)
+Stacktrace:
+	GetHandleVerifier [0x00007FF743516F15+28773]
+	(No symbol) [0x00007FF743482600]
+	(No symbol) [0x00007FF743318FAA]
+	(No symbol) [0x00007FF743304DA5]
+	(No symbol) [0x00007FF74332973A]
+	(No symbol) [0x00007FF74339EFDF]
+	(No symbol) [0x00007FF7433BEFE2]
+	(No symbol) [0x00007FF743397023]
+	(No symbol) [0x00007FF74335FF5E]
+	(No symbol) [0x00007FF7433611E3]
+	GetHandleVerifier [0x00007FF74386425D+3490733]
+	GetHandleVerifier [0x00007FF74387BA43+3586963]
+	GetHandleVerifier [0x00007FF74387147D+3544525]
+	GetHandleVerifier [0x00007FF7435DC9DA+838442]
+	(No symbol) [0x00007FF74348D04F]
+	(No symbol) [0x00007FF743489614]
+	(No symbol) [0x00007FF7434897B6]
+	(No symbol) [0x00007FF743478CE9]
+	BaseThreadInitThunk [0x00007FFD2F1E259D+29]
+	RtlUserThreadStart [0x00007FFD30C4AF38+40]
+
